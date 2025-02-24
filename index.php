@@ -1,6 +1,6 @@
 <?php
 // index.php
-
+//* DIFERENTEEEEEEEEEEEEEEEEEE
 
 // More complex logic
 $hour = date('H');
