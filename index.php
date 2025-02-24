@@ -1,7 +1,6 @@
 <?php
 // index.php
-//* DIFERENTEEEEEEEEEEEEEEEEEE
-
+//* DIFERENTEEEEEEEEEEEEEEEEEE< sdfsd{fñs,d{fñs,d{f}}}
 // More complex logic
 $hour = date('H');
 
